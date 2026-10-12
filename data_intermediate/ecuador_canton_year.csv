@@ -1,0 +1,163 @@
+unit,year,new_ha,n_patches,province
+Carlos Julio Arosemena Tola,2018,362.8147751913442,19,Napo
+Carlos Julio Arosemena Tola,2019,34.57333897857359,2,Napo
+Carlos Julio Arosemena Tola,2020,97.55364800106045,6,Napo
+Carlos Julio Arosemena Tola,2021,213.04236343084668,20,Napo
+Carlos Julio Arosemena Tola,2022,92.18302431394257,8,Napo
+Carlos Julio Arosemena Tola,2023,195.7791570013879,13,Napo
+Carlos Julio Arosemena Tola,2024,523.1302466532526,42,Napo
+Carlos Julio Arosemena Tola,2025,264.50581177810585,24,Napo
+Carlos Julio Arosemena Tola,2026,108.86461295078881,13,Napo
+Cascales,2018,115.15486363033317,6,Sucumbios
+Cascales,2019,11.517647185853612,1,Sucumbios
+Cascales,2020,213.0017886162071,13,Sucumbios
+Cascales,2021,322.43171755856093,21,Sucumbios
+Cascales,2022,431.81462323833955,31,Sucumbios
+Cascales,2023,270.584301274628,20,Sucumbios
+Cascales,2024,426.01091309452744,27,Sucumbios
+Cascales,2025,86.36107707656903,7,Sucumbios
+Cascales,2026,0.0,0,Sucumbios
+Centinela del Condor,2018,0.0,0,Zamora Chinchipe
+Centinela del Condor,2019,0.0,0,Zamora Chinchipe
+Centinela del Condor,2020,0.0,0,Zamora Chinchipe
+Centinela del Condor,2021,0.0,0,Zamora Chinchipe
+Centinela del Condor,2022,0.0,0,Zamora Chinchipe
+Centinela del Condor,2023,0.0,0,Zamora Chinchipe
+Centinela del Condor,2024,104.16117016919488,6,Zamora Chinchipe
+Centinela del Condor,2025,214.0863249037554,19,Zamora Chinchipe
+Centinela del Condor,2026,0.0,0,Zamora Chinchipe
+El Chaco,2018,0.0,0,Napo
+El Chaco,2019,0.0,0,Napo
+El Chaco,2020,0.0,0,Napo
+El Chaco,2021,0.0,0,Napo
+El Chaco,2022,0.0,0,Napo
+El Chaco,2023,472.04243024483725,36,Napo
+El Chaco,2024,328.14418419043545,23,Napo
+El Chaco,2025,178.4876438781524,10,Napo
+El Chaco,2026,0.0,0,Napo
+El Pangui,2018,0.0,0,Zamora Chinchipe
+El Pangui,2019,23.143137180389935,1,Zamora Chinchipe
+El Pangui,2020,34.709614978537374,2,Zamora Chinchipe
+El Pangui,2021,173.54593221466834,9,Zamora Chinchipe
+El Pangui,2022,254.55096878323099,15,Zamora Chinchipe
+El Pangui,2023,52.065071974144786,5,Zamora Chinchipe
+El Pangui,2024,46.28805212052973,3,Zamora Chinchipe
+El Pangui,2025,132.32689905559033,9,Zamora Chinchipe
+El Pangui,2026,115.69396738302319,7,Zamora Chinchipe
+Gualaquiza,2018,34.69090257029059,2,Morona Santiago
+Gualaquiza,2019,28.91482744650424,2,Morona Santiago
+Gualaquiza,2020,80.97609697018673,4,Morona Santiago
+Gualaquiza,2021,254.14122590876664,18,Morona Santiago
+Gualaquiza,2022,57.46900216795137,6,Morona Santiago
+Gualaquiza,2023,104.12125506425721,9,Morona Santiago
+Gualaquiza,2024,40.48473636181417,4,Morona Santiago
+Gualaquiza,2025,127.24207665669313,11,Morona Santiago
+Gualaquiza,2026,86.74583283991772,9,Morona Santiago
+Lago Agrio,2018,92.13546787958585,4,Sucumbios
+Lago Agrio,2019,0.0,0,Sucumbios
+Lago Agrio,2020,0.0,0,Sucumbios
+Lago Agrio,2021,0.0,0,Sucumbios
+Lago Agrio,2022,69.09741442785983,5,Sucumbios
+Lago Agrio,2023,126.66701122478332,7,Sucumbios
+Lago Agrio,2024,161.16885677234825,9,Sucumbios
+Lago Agrio,2025,0.0,0,Sucumbios
+Lago Agrio,2026,0.0,0,Sucumbios
+Nangaritza,2018,127.36067281891219,6,Zamora Chinchipe
+Nangaritza,2019,405.30308383264264,28,Zamora Chinchipe
+Nangaritza,2020,396.25502726896485,32,Zamora Chinchipe
+Nangaritza,2021,906.6571621914619,87,Zamora Chinchipe
+Nangaritza,2022,328.0525966922751,28,Zamora Chinchipe
+Nangaritza,2023,491.26256007128137,41,Zamora Chinchipe
+Nangaritza,2024,716.7152439780497,55,Zamora Chinchipe
+Nangaritza,2025,554.6589434938779,48,Zamora Chinchipe
+Nangaritza,2026,744.8697879537746,58,Zamora Chinchipe
+Orellana,2018,0.0,0,Orellana
+Orellana,2019,0.0,0,Orellana
+Orellana,2020,0.0,0,Orellana
+Orellana,2021,0.0,0,Orellana
+Orellana,2022,34.54477440715254,2,Orellana
+Orellana,2023,2199.2446640891853,153,Orellana
+Orellana,2024,2015.1467491524522,145,Orellana
+Orellana,2025,546.9474939181866,62,Orellana
+Orellana,2026,0.0,0,Orellana
+Palora,2018,0.0,0,Morona Santiago
+Palora,2019,0.0,0,Morona Santiago
+Palora,2020,0.0,0,Morona Santiago
+Palora,2021,0.0,0,Morona Santiago
+Palora,2022,0.0,0,Morona Santiago
+Palora,2023,0.0,0,Morona Santiago
+Palora,2024,80.73224226604489,4,Morona Santiago
+Palora,2025,34.597430717961245,2,Morona Santiago
+Palora,2026,0.0,0,Morona Santiago
+Paquisha,2018,242.3109612829159,20,Zamora Chinchipe
+Paquisha,2019,5.790244916276656,2,Zamora Chinchipe
+Paquisha,2020,0.0,0,Zamora Chinchipe
+Paquisha,2021,92.61681156079725,5,Zamora Chinchipe
+Paquisha,2022,23.149444784273104,1,Zamora Chinchipe
+Paquisha,2023,0.0,0,Zamora Chinchipe
+Paquisha,2024,167.84959710962644,14,Zamora Chinchipe
+Paquisha,2025,346.5342427811372,28,Zamora Chinchipe
+Paquisha,2026,52.08866465699638,4,Zamora Chinchipe
+San Juan Bosco,2018,179.26796169221677,9,Morona Santiago
+San Juan Bosco,2019,74.16025677185182,7,Morona Santiago
+San Juan Bosco,2020,121.08988559159386,13,Morona Santiago
+San Juan Bosco,2021,86.3978765373349,8,Morona Santiago
+San Juan Bosco,2022,34.01249219639356,4,Morona Santiago
+San Juan Bosco,2023,5.784345822577873,1,Morona Santiago
+San Juan Bosco,2024,57.82444476177255,3,Morona Santiago
+San Juan Bosco,2025,0.0,0,Morona Santiago
+San Juan Bosco,2026,5.784102430039193,1,Morona Santiago
+Santiago,2018,0.0,0,Morona Santiago
+Santiago,2019,0.0,0,Morona Santiago
+Santiago,2020,0.0,0,Morona Santiago
+Santiago,2021,0.0,0,Morona Santiago
+Santiago,2022,0.0,0,Morona Santiago
+Santiago,2023,23.116598279762634,1,Morona Santiago
+Santiago,2024,0.0,0,Morona Santiago
+Santiago,2025,46.21746396887502,2,Morona Santiago
+Santiago,2026,0.0,0,Morona Santiago
+Taisha,2018,0.0,0,Morona Santiago
+Taisha,2019,0.0,0,Morona Santiago
+Taisha,2020,0.0,0,Morona Santiago
+Taisha,2021,0.0,0,Morona Santiago
+Taisha,2022,0.0,0,Morona Santiago
+Taisha,2023,0.0,0,Morona Santiago
+Taisha,2024,0.0,0,Morona Santiago
+Taisha,2025,276.648105617801,17,Morona Santiago
+Taisha,2026,0.0,0,Morona Santiago
+Tena,2018,0.0,0,Napo
+Tena,2019,0.0,0,Napo
+Tena,2020,0.0,0,Napo
+Tena,2021,0.0,0,Napo
+Tena,2022,92.19737484789331,5,Napo
+Tena,2023,63.372127708659626,5,Napo
+Tena,2024,518.5774969176019,37,Napo
+Tena,2025,431.55711463561113,29,Napo
+Tena,2026,120.86614758317351,9,Napo
+Yacuambi,2018,0.0,0,Zamora Chinchipe
+Yacuambi,2019,23.136967529667977,1,Zamora Chinchipe
+Yacuambi,2020,0.0,0,Zamora Chinchipe
+Yacuambi,2021,0.0,0,Zamora Chinchipe
+Yacuambi,2022,52.063632180348776,4,Zamora Chinchipe
+Yacuambi,2023,0.0,0,Zamora Chinchipe
+Yacuambi,2024,34.711809304237605,3,Zamora Chinchipe
+Yacuambi,2025,17.351960559392168,2,Zamora Chinchipe
+Yacuambi,2026,28.920321534909167,3,Zamora Chinchipe
+Yantzaza,2018,0.0,0,Zamora Chinchipe
+Yantzaza,2019,0.0,0,Zamora Chinchipe
+Yantzaza,2020,0.0,0,Zamora Chinchipe
+Yantzaza,2021,0.0,0,Zamora Chinchipe
+Yantzaza,2022,23.14636395332397,1,Zamora Chinchipe
+Yantzaza,2023,57.858182657663825,4,Zamora Chinchipe
+Yantzaza,2024,23.151198309554097,1,Zamora Chinchipe
+Yantzaza,2025,306.68996076983444,21,Zamora Chinchipe
+Yantzaza,2026,127.29863565586831,8,Zamora Chinchipe
+Zamora,2018,23.143678749706545,1,Zamora Chinchipe
+Zamora,2019,0.0,0,Zamora Chinchipe
+Zamora,2020,0.0,0,Zamora Chinchipe
+Zamora,2021,243.01503119848064,14,Zamora Chinchipe
+Zamora,2022,57.8582245218109,4,Zamora Chinchipe
+Zamora,2023,185.155615195378,11,Zamora Chinchipe
+Zamora,2024,295.1000877329432,22,Zamora Chinchipe
+Zamora,2025,219.5417291193451,23,Zamora Chinchipe
+Zamora,2026,11.57357746289362,1,Zamora Chinchipe

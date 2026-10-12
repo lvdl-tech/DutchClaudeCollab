@@ -1,0 +1,8 @@
+spec,treated_ln,pool_ln,gap_ln_points,treated_pct,pool_pct
+"Primary: pre 2020-22, post 2023-24",2.884,0.188,2.696,1689.004,20.679
+Provisional: post 2023-25,2.682,0.297,2.385,1361.119,34.61
+Shorter pre 2021-22,2.682,0.004,2.678,1362.017,0.415
+Leave out Zamora Chinchipe from pool,2.884,0.13,2.755,1689.004,13.83
+Leave out Morona Santiago from pool,2.884,0.259,2.625,1689.004,29.602
+Leave out Sucumbíos from pool,2.884,0.133,2.752,1689.004,14.195
+"Placebo in time: fake start 2021 (pre 2019-20, post 2021-22)",1.185,0.881,0.303,226.934,141.437

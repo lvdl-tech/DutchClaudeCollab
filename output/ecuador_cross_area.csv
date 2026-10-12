@@ -1,0 +1,13 @@
+country,area,own_operation_in_2023_24,pre_mean_2020_22,post_mean_2023_24,change_pct,ln_change,ratio_2025_prov_to_2023_24,stock_2018_ha,post_pct_of_2018_stock_per_year
+Ecuador,Napo + Orellana,yes: Sept 2023,176.51,3157.72,1689.0,2.88,0.45,362.81,870.34
+Ecuador,Napo,yes: Sept 2023,164.99,1050.52,536.71,1.85,0.83,362.81,289.55
+Ecuador,Orellana,yes: Sept 2023,11.51,2107.2,18199.69,,0.26,0.0,
+Ecuador,"Pool (Zamora, Morona, Sucumbíos)",no dated before 2025 (not searched = not none),1418.55,1711.89,20.68,0.19,1.35,772.41,221.63
+Peru,Tambopata buffer zone,yes: emergency Apr 2023 (and Mercurio 2019),1123.17,1428.1,27.15,0.24,1.44,21362.1,6.69
+Peru,Amarakaeri buffer zone,partly: emergency districts Apr 2023,1516.2,1358.55,-10.4,-0.11,0.6,11760.3,11.55
+Brazil,Yanomami,yes: Feb 2023,4219.7,2228.55,-47.19,-0.64,0.09,1516.9,146.91
+Brazil,Munduruku + Sai-Cinza,yes: Aug 2023,8278.7,623.45,-92.47,-2.59,0.5,8866.5,7.03
+Brazil,Kayapó,operation 2024 (inside post window),4890.87,2110.9,-56.84,-0.84,0.87,17875.7,11.81
+Brazil,Sararé,operation 2024 (inside post window),247.3,1958.7,692.03,2.07,1.08,396.7,493.75
+Brazil,No-operation pool,none found,528.6,781.9,47.92,0.39,2.76,3233.8,24.18
+Brazil,Amanã (rule-based twin of Tambopata),none found 2017-21,5534.57,2985.7,-46.05,-0.62,0.53,23916.5,12.48

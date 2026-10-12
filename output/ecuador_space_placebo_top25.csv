@@ -1,0 +1,26 @@
+unit_id,country,name,ln_change
+BR-TI-42101,Brazil,Sararé,2.069
+RAISG-676,Ecuador,Altitudinal Llanganates - Reserva de Biosfera Yasuní (Corredor De Conectividad),1.016
+PE-BZ-RC02,Peru,El Sira buffer zone,0.971
+BR-TI-4201,Brazil,Aripuanã,0.682
+RAISG-571,Brazil,Alto Maués (Estação Ecológica),0.627
+RAISG-546,Brazil,Itaituba II (Floresta Nacional),0.548
+RAISG-182,Bolivia,Apolobamba (Area Natural de Manejo Integrado Nacional),0.29
+PE-BZ-RN09,Peru,Tambopata buffer zone,0.24
+RAISG-449,Brazil,Urupadi (Floresta Nacional),0.202
+RAISG-541,Brazil,Juruena (Parque Nacional),0.099
+PE-BZ-PN08,Peru,Bahuaja-Sonene buffer zone,0.063
+RAISG-46,Venezuela,Caura (Parque Nacional),-0.107
+PE-BZ-RC03,Peru,Amarakaeri buffer zone,-0.11
+RAISG-673,Ecuador,Podocarpus Yacuri (Corredor De Conectividad),-0.111
+RAISG-569,Brazil,Montanhas do Tumucumaque (Parque Nacional),-0.252
+RAISG-98,Venezuela,Yapacana (Parque Nacional),-0.275
+RAISG-563,Brazil,Trairão (Floresta Nacional),-0.289
+RAISG-33,Guyane Française,Lucifer Dékou-Dékou (Reserva Biológica de Floresta),-0.329
+RAISG-579,Brazil,Rio Novo (Parque Nacional),-0.339
+RAISG-53,Venezuela,Parima Tapirapeco (Parque Nacional),-0.365
+RAISG-512,Brazil,Tapajós (Área de Proteção Ambiental),-0.474
+RAISG-526,Brazil,Juami-Japurá (Estação Ecológica),-0.511
+RAISG-36,Guyane Française,Abattis et Montagne Kotika (Monumento Natural),-0.517
+RAISG-434,Brazil,Amanã (Floresta Nacional),-0.617
+BR-TI-50901,Brazil,Yanomami,-0.638

@@ -10,7 +10,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from common import Numbers, load_pack
 import checks, peru, peru_anp, brazil
 import peru_production, brazil_deter, spatial, brief_figure, peru_synth, spatial_zones, peru_models
-import control_amw, control_elevation, control_mb_amazonia, control_select, brazil_deter_all, brazil_stagger
+import control_amw, control_elevation, control_mb_amazonia, control_select, brazil_deter_all, brazil_stagger, ecuador
 
 def main():
     pack = load_pack()
@@ -31,6 +31,7 @@ def main():
     checks.run_new_data_checks()
     control_select.run(reg)          # four rules -> twin (Amana) -> comparison
     brazil_stagger.run(reg)          # each territory vs its own operation date; no-operation pool
+    ecuador.run(reg)                 # Ecuador (Napo/Orellana, Sept 2023) vs pool vs Peru/Brazil areas, AMW; added 2026-10-12
     brief_figure.run(pack)           # the ONE figure for the brief (needs peru + peru_anp modules only)
     reg.save()
 

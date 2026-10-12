@@ -105,3 +105,13 @@ Start: 2026-10-10 23:40 CEST.
 - New code: `control_amw.py`, `control_elevation.py`, `control_mb_amazonia.py`, `control_select.py`, `brazil_deter_all.py`, `brazil_stagger.py`. New data: RAISG protected areas (map service), MapBiomas Amazonia Col 6 stats, OpenTopoData SRTM, MapBiomas Brazil Col 11 mining module. Two new publisher checks pass. 511 numbers. Decisions D21-D25.
 - Results: 1,174 areas screened; 31 with mining; 2 without a reported operation, none similar -> no clean twin. Relaxed: Amana National Forest; grew like Tambopata to 2018 (index 2014: 48 vs 51), 2019-21 Tambopata pace 38% of the twin's. Brazil: operated territories fell, no-operation pool grew 326 -> 2,160 ha (2019 -> 2025, AMW, provisional); Munduruku fell before its own operation.
 - Firecrawl: 23 of 100 used (14 + 1 + 4 + 4).
+
+
+### Follow-up 3 (2026-10-12, branch `dutchclaudecollab`, user present): Ecuador
+- User asked for a new EXPLAINER version with the Ecuadorian lead added to every step and compared with all analysed areas.
+- New: `code/clip_amw_ecuador.py` (user ran it locally; source.coop is blocked in the cloud workspace), `code/ecuador.py` (wired into `main.py`), `data_raw/amw/amw_ecuador.geojson`, `data_raw/geoboundaries/`, `data_intermediate/ecuador_*.csv`, `output/ecuador_*`, `output/fig_ecuador_*.png`, `output/numbers_ecuador.csv` (ids `ec_`), `docs/overnight/EXPLAINER_v2.md` (Ecuador box in steps 3-13, new step 14, claims, appendix D21-D25).
+- Checks: clip = 1,828 patches = direct bbox read of the full file (232,030 patches; sha256 equals the 2026-10-10 download).
+- Natural Earth admin-1 swaps Napo/Tungurahua: not used. geoBoundaries ADM1 vs ADM2 simplified borders disagree for 53 patches (Napo/Orellana): province taken from canton.
+- Result: Napo+Orellana 177 -> 3,158 ha/yr (2020-22 -> 2023-24), pool +21%, gold +21%; rank 1 of 43 areas; no causal claim (surge at least partly first, national programme from Oct 2024, 2025 provisional).
+- Reproducibility note: re-running `main.py` in this environment changed 24 `synth_*` numbers (optimiser not deterministic); everything else matched. The regenerated Peru/Brazil outputs were NOT committed.
+- Not done / blocked: opened sources (WebFetch summaries only; 4 headline-only rows), MapBiomas Ecuador, Ecuadorian PA polygons, brief draft not updated for Ecuador.
